@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "6kSHnCsw3PlblGGgHdD5uT",
+    "id" : "9JdI93jaEIAhULvYKyfVO1",
     "name" : "Versioned Mapping 2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100B51700000000002L"
+        "repoHandle" : "0100B51700000000002Z"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2025-02-03T09:06:57.367Z",
+  "updateTime" : "2025-02-03T09:08:39.254Z",
   "objectRefs" : [ ],
   "readableFileExtension" : null,
   "readableFilePresent" : false

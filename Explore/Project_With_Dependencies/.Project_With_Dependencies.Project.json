@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0Iy4ct3mq6HhEZBuND3oQm",
+    "id" : "8uRm7fYKMe1dvtVB79f96v",
     "name" : "Project_With_Dependencies",
     "type" : "Project",
     "metadata" : {
@@ -18,7 +18,7 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2025-02-03T09:06:57.382Z",
+  "updateTime" : "2025-02-03T09:08:39.261Z",
   "objectRefs" : [ ],
   "readableFileExtension" : null,
   "readableFilePresent" : false
