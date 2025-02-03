@@ -1,0 +1,30 @@
+{
+  "objectInfo" : {
+    "id" : "2iWExNrsBE6flTFx3toIgZ",
+    "name" : "Versioned Mapping - Rename",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100B51700000000002O"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2025-02-03T09:06:57.365Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
