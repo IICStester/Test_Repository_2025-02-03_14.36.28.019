@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "b3Qr6pl2sktbNM4DCqSAK4",
+    "id" : "jhlCl8jdpCuhHUfZDXcV6B",
     "name" : "Project_With_Dependencies_PullByCommitHash",
     "type" : "Project",
     "metadata" : {
@@ -18,7 +18,7 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2025-02-03T09:06:43.737Z",
+  "updateTime" : "2025-02-03T09:08:25.187Z",
   "objectRefs" : [ ],
   "readableFileExtension" : null,
   "readableFilePresent" : false
